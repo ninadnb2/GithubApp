@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message">User not found.</string>
+    <string name="userName">Enter GitHub username</string>
+    <string name="search">Search</string>
+    <string name="followers_repos">Followers: 0 | Repos: 0</string>
+</resources>
